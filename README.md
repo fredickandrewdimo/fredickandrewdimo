@@ -6,7 +6,7 @@
 
 - 📚 I'm currently learning more about on Front End Development.
 - 🗓 2022 Goals: Learn JavaScript Framework and contribute to open source projects.
-- 🖼 I have a strong foundation on UX Design.
+- 🖼 I have a strong foundation and background on UX Design.
 
 
 ### Connect with me on LinkedIn:
