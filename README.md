@@ -8,9 +8,9 @@
 
 #### Connect with me on LinkedIn:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fadimo/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fadimo/#gh-dark-mode-only)
-&nbsp;&nbsp;
+[<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/fadimo/)
+
+<br>
 
 #### Languages and Frameworks:
 
