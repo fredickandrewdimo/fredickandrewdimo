@@ -34,8 +34,6 @@
 
 <img align="left" alt="webflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="webflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 
 <br>
