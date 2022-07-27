@@ -1,11 +1,11 @@
 # Hi there, I'm Fredick Andrew 👋
 
 
-### I'm an Aspiring Front End Developer 👨🏻‍💻
+### Aspiring Fullstack Developer 👨🏻‍💻
 
 
-- 📚 I'm currently learning more about on Front End Development.
-- 🗓 2022 Goals: Learn JavaScript Framework and contribute to open source projects.
+- 📚 I'm currently learning technologies and tools in Web Development.
+- 🗓 2022 Goals: Learn React,Angular, Vue JS and contribute to open source projects.
 - 🖼 I have a strong foundation and background on UX Design.
 
 
