@@ -4,9 +4,9 @@
 ### Aspiring Fullstack Developer 👨🏻‍💻
 
 
-- 📚 I'm currently learning technologies and tools in Web Development.
-- 🗓 2022 Goals: Learn React,Angular, Vue JS and contribute to open source projects.
-- 🖼 I have a strong foundation and background on UX Design.
+‣ 📚 I'm currently learning technologies and tools in Web Development.
+‣ 🗓 2022 Goals: Learn React,Angular, Vue JS and contribute to open source projects.
+‣ 🖼 I have a strong foundation and background on UX Design.
 
 
 ### Connect with me on LinkedIn:
