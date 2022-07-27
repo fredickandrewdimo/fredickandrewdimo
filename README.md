@@ -12,7 +12,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fadimo/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Frameworks:
+#### Languages and Frameworks:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
@@ -38,7 +38,7 @@
 
 <br>
 
-### Deployment and Tools:
+#### Deployment and Tools:
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
@@ -48,7 +48,7 @@
 
 <br>
 
-### Design Tools:
+#### Design Tools:
 
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
