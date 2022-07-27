@@ -1,15 +1,15 @@
-# Hi there, I'm Fredick Andrew 👋
+# Hi there, I'm Andrew 👋
 
 
 ### Aspiring Fullstack Developer 👨🏻‍💻
 
 
-‣ 📚 I'm currently learning technologies and tools in Web Development.
-‣ 🗓 2022 Goals: Learn React,Angular, Vue JS and contribute to open source projects.
-‣ 🖼 I have a strong foundation and background on UX Design.
+‣ I'm constantly learning technologies and tools in Web Development. <br>
+‣ 2022 Goals: Learn React,Angular, Vue JS and contribute to open source projects. <br>
+‣ I have a strong foundation and background on UX Design.
 
 
-### Connect with me on LinkedIn:
+#### Connect with me on LinkedIn:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fadimo/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fadimo/#gh-dark-mode-only)
