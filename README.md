@@ -1,10 +1,9 @@
 # Hi there, I'm Andrew 👋
 
-### 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👨🏻‍💻
+### Frontend Developer 👨🏻‍💻
 
 ‣ I'm constantly learning technologies and tools in Web Development. <br>
-‣ 2022 Goals: Learn React,Angular, Vue JS and contribute to open source projects. <br>
-‣ I have a strong foundation and background on UX Design.
+‣ 2022 Goals: Learn Javascript Framework and explore in Backend Development. <br>
 
 #### Connect with me on LinkedIn:
 
