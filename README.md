@@ -1,16 +1,17 @@
-# Hi there, I'm Andrew 👋
+### Developer | QA Tester
 
-### Frontend Developer 👨🏻‍💻
+📂 I am a junior developer with a background in UX Design and QA Tester for both manual and Automation. <br>
+📂 My goals for the first three months of 2023 are to build and organize my portfolio with quality documentation. <br>
 
-‣ I'm constantly learning technologies and tools in Web Development. <br>
-‣ 2022 Goals: Learn Javascript Framework and explore in Backend Development. <br>
+---
 
 #### Connect with me on LinkedIn:
 
-[<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/fadimo/)
+[<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/fadimo/)<br>
 
-<br>
+---
 
+### Tech Stack 
 
 #### Languages and Frameworks:
 
@@ -57,3 +58,7 @@
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
 
 <img align="left" alt="canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
+
+<br>
+
+---
