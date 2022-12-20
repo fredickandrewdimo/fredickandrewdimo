@@ -1,6 +1,6 @@
 ### Developer | QA Tester
 
-📂 I am a junior developer with a background in UX Design and QA Tester for both manual and Automation. <br>
+📂 I am a junior developer with a background in UX Design and QA Testing for both manual and Automation. <br>
 📂 My goals for the first three months of 2023 are to build and organize my portfolio with quality documentation. <br>
 
 ---
