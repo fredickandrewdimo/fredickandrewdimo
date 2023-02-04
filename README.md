@@ -1,11 +1,8 @@
 ### Developer
 
-📂 I am a computer engineering graduate with aspirations to become a full-stack developer. I have a strong foundation in programming, networking, and software design. Additionally, I have experience in user experience design and manual quality assurance testing.<br>
-
-📂 My goals for the first three months of 2023 are to build and organize my portfolio with quality documentation.<br>
+I am a computer engineering graduate with aspirations to become a full-stack developer/QA engineer. I have a strong foundation in programming, networking, and software design. Additionally, I have experience in user experience design and manual quality assurance testing.
 <br>
-
----
+<br>
 
 ### Tech Stack
 
@@ -25,15 +22,13 @@
 
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+<img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 
 <img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" style="padding-right:30px;" />
 
-<img align="left" alt="wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
-
 <br>
 
-#### Deployment and Tools:
+#### Dev Tools:
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
@@ -53,9 +48,27 @@
 
 <br>
 <br>
+<br>
 
----
+### Latest Projects
 
-#### Connect with me on LinkedIn:
+- **DevFinder** <br>
+  A web app built with HTML, Tailwind CSS, JavaScript, and the Github User API. Able to find developers on Github and display their github profile data like bio, repository, etc.
+
+  Live URL: https://fredickandrewdimo.github.io/devfinder/
+
+- **Online Dictionary** <br>
+  A web app built with HTML, Tailwind CSS, JavaScript, and the free Dictionary API. Able to retrieve data for the specific word that the user is searching for and display data like meaning, examples, etc.
+
+  Live URL: https://fredickandrewdimo.github.io/Dictionary-Web-App/
+
+- **Password Generator** <br>
+  A web app built with HTML, CSS, JavaScript, and the zxcvbn library to test password strength. Able to generate a password composed of random letters, numbers, and symbols.
+
+  Live URL: https://fredickandrewdimo.github.io/Modern-Password-Generator/
+
+<br>
+
+### Connect with me on LinkedIn:
 
 [<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/fadimo/)<br>
