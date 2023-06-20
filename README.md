@@ -1,9 +1,10 @@
 # Hi, I'm Andrew! 👋
 
 ## 👨🏻‍💻 About Me
+I'm a computer engineering graduate and currently a freelance web developer. 
 
-I'm a computer engineering graduate with aspirations to become a full-stack developer.
 <br/>
+
 
 ## 🛠 Tech Stack
 
@@ -24,11 +25,16 @@ I'm a computer engineering graduate with aspirations to become a full-stack deve
 <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:0 5px 0 5px; margin: 10px" />
 <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:0 5px 0 5px; margin: 10px" />
 
+<br/>
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadimo/)
 
+<br/>
+
 ## 📂 Latest Projects
+- This is just my personal projects; I have not included my private projects lately as a freelance developer.
 
 - **Shortly** <br>
   A web app built with ReactJS, TailwindCSS and shrtcode API. Able to shorten any web link that you enter. The design of the website is responsive, which means it works well on different screen sizes, and it has been made to be easy to use.
