@@ -1,10 +1,10 @@
 ![github-profile-readme](/img/github-cover.svg)
 
-### I'm a Frontend Developer, UX Designer and Freelancer.
+#### I have an experience as Full Stack Developer, UX Designer and Freelancer.
 
-- 👨🏻‍💻 I'm currently looking for new opportunities in software development.
-- 🤖 I'm a volunteer at DEVCON ILOILO.
-- 🤝 I'm a looking to collaborate with projects.
+- 👨🏻‍💻 Currently a Site Reliability Engineer Intern at OpsWerks.
+- 🤖 An active volunteer at DEVCON ILOILO.
+- 🤝 Open to collaborate with projects related to DevOps and Automations.
 
 <br/>
 
