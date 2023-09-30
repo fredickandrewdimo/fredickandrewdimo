@@ -30,4 +30,6 @@
 
 #### 𝗩𝗶𝘀𝗶𝘁 𝗺𝘆 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 🌐 👀 : [www.fredickandrewdimo.com](https://www.fredickandrewdimo.com)
 
+˯
+
 #### 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 🤝 🙂 : [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadimo/)
